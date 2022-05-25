@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
+%TF.CreationDate,2022-03-11T00:25:21+11:00*%
+%TF.ProjectId,WiFiTracingTag,57694669-5472-4616-9369-6e675461672e,rev?*%
+%TF.SameCoordinates,PX66ff300PY791ddc0*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-03-11 00:25:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y0D02*
+X26000000Y0D01*
+X26000000Y0D02*
+X26000000Y40000000D01*
+X26000000Y40000000D02*
+X0Y40000000D01*
+X0Y40000000D02*
+X0Y0D01*
+M02*
